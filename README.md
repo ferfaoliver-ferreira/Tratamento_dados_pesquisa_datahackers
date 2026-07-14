@@ -21,5 +21,7 @@ Para construir modelos de IA eficazes, o primeiro passo é o domínio sobre a qu
 * **Diversidade e Inclusão:** Análise da representatividade de gênero e raça no cenário tech brasileiro, destacando os desafios e lacunas existentes.
 * **Fundamentos para IA:** A estruturação desta base de dados foi pensada para facilitar futuros processos de modelagem preditiva e aprendizado de máquina.
 
+<img width="1312" height="557" alt="image" src="https://github.com/user-attachments/assets/6599cbcb-121e-4570-a7f1-477337b94d57" />
+
 ---
 Este projeto faz parte do meu cronograma de estudos contínuos em **Cloud Computing, IA e Engenharia de Dados**, reforçando o compromisso com a qualidade técnica desde a base do pipeline de dados.
